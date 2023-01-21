@@ -4,5 +4,6 @@ scipy
 ruptures
 matplotlib
 pyod
+networkx
 twarc
 twarc-network
