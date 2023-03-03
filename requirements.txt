@@ -7,3 +7,4 @@ pyod
 networkx
 twarc
 twarc-network
+botometer
